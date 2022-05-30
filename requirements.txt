@@ -1,0 +1,5 @@
+protobuf>=3.5.0.post1
+wheel>=0.29
+grpcio-tools
+pydub >= 0.25
+

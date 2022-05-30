@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+
+
+message Empty {
+	
+	}
+	
+
+message AudioFile {
+	int64 audioid = 1;
+	bytes audiofile = 2;
+	}
+	
+
+
+service send_file {
+	rpc Send(Empty) returns (AudioFile);
+	}

@@ -10,7 +10,6 @@
 -   [Client](#client)
 -   [Roadmap](#roadmap)
 -   [License](#license)
--   [References](#references)
 
 
 

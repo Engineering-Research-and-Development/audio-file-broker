@@ -21,8 +21,8 @@ The Audio File Broker component is an input module for solutions involving audio
 ![immagine](https://user-images.githubusercontent.com/103200695/170997379-f82d335d-62ca-4978-aac2-c85a5712de8c.png)
 
 This component is made of two sub-systems:
-- A HTTP server receiving data
+- A HTTP server receiving data from an external system
 - A GRPC server putting data into the pipeline
 
 
-Moreover, the additional microphone client tool is provided in this repository to allow the use of input audio from a microphone
+Moreover, the additional microphone client tool is provided in this repository to allow the use of input audio from a microphone.

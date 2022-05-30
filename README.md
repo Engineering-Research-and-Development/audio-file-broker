@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
--   [Intro](#intro)
+-   [Introduction](#intro)
 -   [Dockerized Repository](#docker)
 -   [Requirements and installation](#requirements-and-installation)
 -   [Server](#server)
@@ -14,7 +14,7 @@
 
 
 
-## Intro
+## Introduction
 
 The Audio File Broker component is an input module for solutions involving audio processing. It was born as input node for the Akimech pipeline in the AI Regio project, involving several cooperating modules for the speech-to-text and topic recognition tasks with the aim of supporting industries in the maintenance processes. 
 
